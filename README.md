@@ -18,7 +18,7 @@ To implement a Half Wave Rectifier with and without filter and to measure and co
 
 		
 ## OUTPUT:
-<img width="686" height="1116" alt="image" src="https://github.com/user-attachments/assets/6565e98b-51cc-45ca-afa1-4bd186906198" />
+<img width="690" height="946" alt="image" src="https://github.com/user-attachments/assets/9f62c760-23a5-44ca-904e-7149fc9ebdb7" />
 <img width="692" height="976" alt="image" src="https://github.com/user-attachments/assets/1ea5fbab-00dc-41ce-839a-93753e301e4c" />
 
 ## RESULT:
