@@ -3,7 +3,7 @@
 ## AIM:
 To implement a Half Wave Rectifier with and without filter and to measure and compare the output and peak inverse voltages.
 ## CIRCUIT DIAGRAM:
-
+<img width="692" height="1004" alt="image" src="https://github.com/user-attachments/assets/412d7fe6-c0d8-4839-a31e-f42d89c71e8e" />
 
 ## PROCEDURE:
 1.	Connections are made as shown in the circuit diagram.
@@ -13,7 +13,12 @@ To implement a Half Wave Rectifier with and without filter and to measure and co
 3.	The waveforms for the the above three voltages are drawn as obtained on the CRO.
 	
 4.	A capacitance filter is connected as shown in the following circuit diagram and the wave forms are obtained the same way as without filter and readings are obtained the same way from the CRO..
+5.	<img width="692" height="976" alt="image" src="https://github.com/user-attachments/assets/00377a81-2857-45f5-81b0-4445bd0a99e6" />
+
 		
 ## OUTPUT:
+<img width="686" height="1116" alt="image" src="https://github.com/user-attachments/assets/6565e98b-51cc-45ca-afa1-4bd186906198" />
+<img width="690" height="946" alt="image" src="https://github.com/user-attachments/assets/af54691b-723e-4116-b8b4-1bb05fe17112" />
 
 ## RESULT:
+<img width="692" height="382" alt="image" src="https://github.com/user-attachments/assets/f67d851c-830a-4152-b727-f4be8b83fbf9" />
